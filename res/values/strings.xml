@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">macexample</string>
+    <string name="connection_error">Ошибка интернет соединения</string>
+    <string name="no_connection">Нет соединения</string>
+    <string name="malformed_url">Malformed URL</string>
+    <string name="send_data">Send data</string>
+</resources>
